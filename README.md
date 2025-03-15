@@ -1,6 +1,6 @@
 # FluorescenceSpectroscopyClassification
 
-### Data Collection:
+### Data Directory/Collection:
 https://www.kaggle.com/datasets/edumisvieramartin/multi-wavelength-for-metal-classification?resource=download
 
 ### Usage:
